@@ -1,2 +1,5 @@
-# Hospital-Navigation-with-chatbot-
+Hospital Navigation System with HENA (Healthcare Expert & Navigation Assistant)
+
+Hospital Navigation System with HENA (Healthcare Expert & Navigation Assistant), is designed to assist patients in navigating hospitals efficiently. It features an AI-powered chatbot that provides audio-supported responses and a navigation system based on NetworkX for optimal route planning. The system leverages Hugging Face LLM and Transformers for natural language processing, with a trained database covering 44 types of illnesses to offer relevant healthcare guidance. The front-end UI is built using Gradio, while Google Colab is used for implementing Python libraries. The project enhances patient experience by providing seamless hospital navigation and AI-driven healthcare assistance.
+
 The **Hospital Navigation System with HENA** is an AI chatbot that helps patients navigate hospitals and access healthcare guidance with **audio support, NLP, and route planning** using **NetworkX** and **Hugging Face LLM**.
